@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "simplify_data_demo_live", "simplify_data_demo_live\simplify_data_demo_live.pyproj", "{F0B59F0B-BB30-44B4-A6AE-849115C5AB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0B59F0B-BB30-44B4-A6AE-849115C5AB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B59F0B-BB30-44B4-A6AE-849115C5AB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A3F48F-6A8F-4FAE-9B10-3C3245E1892A}
+	EndGlobalSection
+EndGlobal
